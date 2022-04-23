@@ -1,0 +1,9 @@
+.menu{
+    display: flex;
+    gap:30px;
+}
+.menus{
+    color:brown;
+    font-size: 20px;
+    letter-spacing: 10px;
+}
